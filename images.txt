@@ -7,3 +7,4 @@
 
 node:22.16.0
 mysql
+node:22-alpine
